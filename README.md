@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Witch's Idiomas.
+- 🔭 I’m currently working at Witch's Idiomas.
 - 🌱 I’m currently learning Python.
 - 🤔 I’m looking for help with code learning 
 - 💬 Ask me about English and I'll tell you what you want.
